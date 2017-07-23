@@ -30,8 +30,11 @@ Once you've downloaded or cloned this repository, run `npm install` inside the d
 then install these dependencies
 
 `npm i -s wiyarmir/react-native-spotify-auth`
+
 `npm i -s react-native-vector-icons`
+
 `npm i -s react-navigation`
+
 `npm i -s react-native-popup-dialog`
 
 then launch
