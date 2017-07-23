@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7e37c1e0007215cd55a1e454582564b7cbf28ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8d6f3e078bbc1d98253dd994d6efb79219b6de43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta13/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43b85c5b5849249a42ce6f10a88b781393772304">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.spotify.sdk-spotify-auth-1.0.0-beta13_84df52b3066e68217984bfc46ac415ec6afdb295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_b3602a4d32a1eccc310d2f7017e1c16efe38b4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a5a7cb10aca91a56b4e124f2eef5d9ddef1abc12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_eae9416080f0a91ad4f15044dbabc4bfa32b8886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_10ab6ba232266888b403884020c442298a4fa1ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a5c1dfab79574dca4e91a8c07a1d722aeca08c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0749cd33bf87c76868b4b8c0be821f243027508e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_47ae6c018348abcca4eda13beb10e94c58843461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_00b736cb2a8dcfdf87bd010bec8045936aa0744f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_4fb8a756ce59032538bf16df5a496782f785f7cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bc31892fb9bc6bd867761ae1051b70a0bc4ba925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/spotifyApp/react-native-spotify-auth/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="54b092b39fa000b71f55380d6244afe4b451822c">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/spotifyApp-react-native-spotify-auth-unspecified_d7adee7cdc88e6f9af6bc4a0d7a7322c621c8be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0804197729c6c3656bcf7ba5a826303bbc9240de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_921fd4f89f78e897b5b2e5960c395533afa2dfcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_57e5ebef6bdf5adc328490c5bde3ec661741c7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_57341344049f15b53a2ac74dc7c34a04d3a740c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_67da4da051cc3579e96ebf5235424b116b4b4477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d2f48824a09d77fd28b485eb0443ac6b7aff0c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_8357049f3039bb10654ad55fd8804276e7613b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_6ba79bb14d1030810930feffa7b3c0e14205811b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_33d86ce701782eb132796af163192473feb0517a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/spotifyApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/spotifyApp-react-native-vector-icons-unspecified_8437bfd2548f47c228b94887111e6d229c5b4ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_61adf871d103dab43f4bb017c281b8fa7d377e1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_1ff8b60254a316b706e0f8ca448b2efeb2cc71c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_aaea7baca76f6e8cd5d01a946bf4a7a4194aa8be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1b6a8c5921674faf26796e185a60d62065b4f157">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r2.1.1_04c186288d36c2530003db87dc85aae77100509e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_3ab2af624dff745bf251fbd21e50804e4aaad5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_20dbb24e2ba1a132defc1f55c60b90e49b6a2d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/spotifyApp/react-native-audio-streamer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4256fec0757c9e2edefa63d007d2aa4bb19ef4e2">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/spotifyApp-react-native-audio-streamer-unspecified_16c52e888de15d6cb9597ffe93bd7daf3eb65a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_7f90c47db3a55f27fc8e02b76293b2e797b47c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_1b36cb454d4f21f33fdc84592cfa3791ba8dd738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f7ed9b7d3f999c41b2ed6ae50dd220d644a79acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_510dfa195ee63c2e7f4a28516b4e460b24bbeb17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_61725cd07e2b5e02b31f6a8bae85cbb96d54f009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/abbasfarid/Apps/spotifyApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_0e7196a32737187f4212277949ccf333798e0a71.jar" />
+    </item>
+
+</items>

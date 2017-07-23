@@ -1,0 +1,664 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		11D01E7469A117EE76BB381009424460 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */; };
+		42751329A4891C124D8FB1E03B31D5A4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */; };
+		47B99FE4A476EC692864734E25776A82 /* Pods-spotifyApp-tvOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A72FD77D7B5566C5D5102F9FE2B6C1 /* Pods-spotifyApp-tvOS-dummy.m */; };
+		6A26D68E1EC7878CCB2E63E44815CA5B /* Pods-spotifyAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DD836D45EDEEEEAD6807F344CF4C56B6 /* Pods-spotifyAppTests-dummy.m */; };
+		96D13765AFD8CA5E84DBB931E497F6F1 /* Pods-spotifyApp-tvOSTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 34ADA5351343E158C7301790E7AAE15D /* Pods-spotifyApp-tvOSTests-dummy.m */; };
+		BDCDCE84E66B72ED8AC31E415F4E64D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */; };
+		C7E15C9C21530B0C6C9ACB69A3C5AADC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */; };
+		D46286D2D9BD19CC0FC544F8A4B17637 /* Pods-spotifyApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 96F3BA6E39E9FCD76FA1ABB495CCFC15 /* Pods-spotifyApp-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		09C72411079093AAA538B1B61DF29DAD /* Pods-spotifyApp-tvOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyApp-tvOSTests-frameworks.sh"; sourceTree = "<group>"; };
+		1DD786136470A511EBE622FEC11A6C26 /* Pods-spotifyApp-tvOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-spotifyApp-tvOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		25C03AC09DD9C568F11AC37D2161B15C /* Pods-spotifyAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2850E7616E8F8238C00183FD4A0058E5 /* libPods-spotifyApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-spotifyApp-tvOSTests.a"; path = "libPods-spotifyApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		34ADA5351343E158C7301790E7AAE15D /* Pods-spotifyApp-tvOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-spotifyApp-tvOSTests-dummy.m"; sourceTree = "<group>"; };
+		512C9AF289A9C8A727DF4A002F64BBB1 /* libPods-spotifyApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-spotifyApp-tvOS.a"; path = "libPods-spotifyApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59843FE527F27248637CCE0CD0212B17 /* Pods-spotifyApp-tvOSTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-spotifyApp-tvOSTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		5DA1621BCB4832E8BEED9151D6248581 /* Pods-spotifyApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyApp-frameworks.sh"; sourceTree = "<group>"; };
+		7428C018F7525BB4D8AE22BB4FE20F12 /* Pods-spotifyAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		780ABCF94A169624AA0698BBECFE74FC /* Pods-spotifyAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-spotifyAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		813A3D2D7857F09A22597C3194486753 /* libPods-spotifyAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-spotifyAppTests.a"; path = "libPods-spotifyAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		861C031716105827DB85E74D4CAD6895 /* Pods-spotifyApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		8656056682FCCE61AD89F1FB840FE80F /* Pods-spotifyApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyApp-resources.sh"; sourceTree = "<group>"; };
+		8905D5348E43D5C3070290A298BA3105 /* libPods-spotifyApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-spotifyApp.a"; path = "libPods-spotifyApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		90A72FD77D7B5566C5D5102F9FE2B6C1 /* Pods-spotifyApp-tvOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-spotifyApp-tvOS-dummy.m"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		95898310ACE78F15536BBD44E9B2E784 /* Pods-spotifyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyApp.release.xcconfig"; sourceTree = "<group>"; };
+		96F3BA6E39E9FCD76FA1ABB495CCFC15 /* Pods-spotifyApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-spotifyApp-dummy.m"; sourceTree = "<group>"; };
+		9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		A3BF78E5B3DE73FF3473FF7CAB2AED0F /* Pods-spotifyApp-tvOS-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyApp-tvOS-resources.sh"; sourceTree = "<group>"; };
+		A6252DD20F26B4D4FA80D529DFD41A4F /* Pods-spotifyApp-tvOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-spotifyApp-tvOS-acknowledgements.markdown"; sourceTree = "<group>"; };
+		B63C727824E99B848E77A0C2359664CC /* Pods-spotifyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyApp.debug.xcconfig"; sourceTree = "<group>"; };
+		BE16712875647C1340E24F7D4C3DA53B /* Pods-spotifyApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		C1901CF4B169ED2417B874AC08E7B2DE /* Pods-spotifyApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		C6D4517058DCC279B5591BFEE067855E /* Pods-spotifyApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-spotifyApp-acknowledgements.plist"; sourceTree = "<group>"; };
+		C81D638F9CCDD705DAD612EFEC89A781 /* Pods-spotifyAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyAppTests-frameworks.sh"; sourceTree = "<group>"; };
+		D02E76BFC823CA70950202E2843F1294 /* Pods-spotifyApp-tvOS-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyApp-tvOS-frameworks.sh"; sourceTree = "<group>"; };
+		D64944EFCFAE12B1C2567730B6F77C4B /* Pods-spotifyAppTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyAppTests-resources.sh"; sourceTree = "<group>"; };
+		D7450AF90F8EACE2D8A0110C712BFFEB /* Pods-spotifyApp-tvOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-spotifyApp-tvOS-acknowledgements.plist"; sourceTree = "<group>"; };
+		DD836D45EDEEEEAD6807F344CF4C56B6 /* Pods-spotifyAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-spotifyAppTests-dummy.m"; sourceTree = "<group>"; };
+		E83D795E602517BB636599B119E403B9 /* Pods-spotifyApp-tvOSTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-spotifyApp-tvOSTests-resources.sh"; sourceTree = "<group>"; };
+		E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		F0E53CB3742295E917DDE780C18F5348 /* Pods-spotifyApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-spotifyApp-acknowledgements.markdown"; sourceTree = "<group>"; };
+		F12B708EF6ABA19D79E0D0488A415AEC /* Pods-spotifyApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-spotifyApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		F6D4DF75FE9486B619A168705CA3BF07 /* Pods-spotifyAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-spotifyAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		19CE705955C3D65C717EFCD3D06A6597 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C7E15C9C21530B0C6C9ACB69A3C5AADC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1E3A496B1B25D3FFF5A38D080D0C89C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				11D01E7469A117EE76BB381009424460 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E21BD9B28BD21A4F7BE5C8D9FE907AD1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42751329A4891C124D8FB1E03B31D5A4 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE5C293C54802730A44BF3DFA48413D1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BDCDCE84E66B72ED8AC31E415F4E64D5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A2AD1A8248980175B4C51BA3811D336 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				95794B68C6A36AA22F8FDD6F37A2888E /* Pods-spotifyApp */,
+				5E2AE4EF7B59954FF57757EC191C1DD6 /* Pods-spotifyApp-tvOS */,
+				B250CFD38F5D84A8946F6DA2895902C6 /* Pods-spotifyApp-tvOSTests */,
+				2E615C412075A29790E7533DDA188156 /* Pods-spotifyAppTests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		2E615C412075A29790E7533DDA188156 /* Pods-spotifyAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				F6D4DF75FE9486B619A168705CA3BF07 /* Pods-spotifyAppTests-acknowledgements.markdown */,
+				780ABCF94A169624AA0698BBECFE74FC /* Pods-spotifyAppTests-acknowledgements.plist */,
+				DD836D45EDEEEEAD6807F344CF4C56B6 /* Pods-spotifyAppTests-dummy.m */,
+				C81D638F9CCDD705DAD612EFEC89A781 /* Pods-spotifyAppTests-frameworks.sh */,
+				D64944EFCFAE12B1C2567730B6F77C4B /* Pods-spotifyAppTests-resources.sh */,
+				25C03AC09DD9C568F11AC37D2161B15C /* Pods-spotifyAppTests.debug.xcconfig */,
+				7428C018F7525BB4D8AE22BB4FE20F12 /* Pods-spotifyAppTests.release.xcconfig */,
+			);
+			name = "Pods-spotifyAppTests";
+			path = "Target Support Files/Pods-spotifyAppTests";
+			sourceTree = "<group>";
+		};
+		40E69F54529E0CEE3EFB3A6D66970E1D /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		5E2AE4EF7B59954FF57757EC191C1DD6 /* Pods-spotifyApp-tvOS */ = {
+			isa = PBXGroup;
+			children = (
+				A6252DD20F26B4D4FA80D529DFD41A4F /* Pods-spotifyApp-tvOS-acknowledgements.markdown */,
+				D7450AF90F8EACE2D8A0110C712BFFEB /* Pods-spotifyApp-tvOS-acknowledgements.plist */,
+				90A72FD77D7B5566C5D5102F9FE2B6C1 /* Pods-spotifyApp-tvOS-dummy.m */,
+				D02E76BFC823CA70950202E2843F1294 /* Pods-spotifyApp-tvOS-frameworks.sh */,
+				A3BF78E5B3DE73FF3473FF7CAB2AED0F /* Pods-spotifyApp-tvOS-resources.sh */,
+				F12B708EF6ABA19D79E0D0488A415AEC /* Pods-spotifyApp-tvOS.debug.xcconfig */,
+				861C031716105827DB85E74D4CAD6895 /* Pods-spotifyApp-tvOS.release.xcconfig */,
+			);
+			name = "Pods-spotifyApp-tvOS";
+			path = "Target Support Files/Pods-spotifyApp-tvOS";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				A42F72DC1D780481325DD00969B19BB6 /* Frameworks */,
+				C83603F9E54278BF982E93D30AA964A8 /* Products */,
+				1A2AD1A8248980175B4C51BA3811D336 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		95794B68C6A36AA22F8FDD6F37A2888E /* Pods-spotifyApp */ = {
+			isa = PBXGroup;
+			children = (
+				F0E53CB3742295E917DDE780C18F5348 /* Pods-spotifyApp-acknowledgements.markdown */,
+				C6D4517058DCC279B5591BFEE067855E /* Pods-spotifyApp-acknowledgements.plist */,
+				96F3BA6E39E9FCD76FA1ABB495CCFC15 /* Pods-spotifyApp-dummy.m */,
+				5DA1621BCB4832E8BEED9151D6248581 /* Pods-spotifyApp-frameworks.sh */,
+				8656056682FCCE61AD89F1FB840FE80F /* Pods-spotifyApp-resources.sh */,
+				B63C727824E99B848E77A0C2359664CC /* Pods-spotifyApp.debug.xcconfig */,
+				95898310ACE78F15536BBD44E9B2E784 /* Pods-spotifyApp.release.xcconfig */,
+			);
+			name = "Pods-spotifyApp";
+			path = "Target Support Files/Pods-spotifyApp";
+			sourceTree = "<group>";
+		};
+		A42F72DC1D780481325DD00969B19BB6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				40E69F54529E0CEE3EFB3A6D66970E1D /* iOS */,
+				B95AAC6DF73A3AFC4B77A363C70E8A09 /* tvOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B250CFD38F5D84A8946F6DA2895902C6 /* Pods-spotifyApp-tvOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				1DD786136470A511EBE622FEC11A6C26 /* Pods-spotifyApp-tvOSTests-acknowledgements.markdown */,
+				59843FE527F27248637CCE0CD0212B17 /* Pods-spotifyApp-tvOSTests-acknowledgements.plist */,
+				34ADA5351343E158C7301790E7AAE15D /* Pods-spotifyApp-tvOSTests-dummy.m */,
+				09C72411079093AAA538B1B61DF29DAD /* Pods-spotifyApp-tvOSTests-frameworks.sh */,
+				E83D795E602517BB636599B119E403B9 /* Pods-spotifyApp-tvOSTests-resources.sh */,
+				C1901CF4B169ED2417B874AC08E7B2DE /* Pods-spotifyApp-tvOSTests.debug.xcconfig */,
+				BE16712875647C1340E24F7D4C3DA53B /* Pods-spotifyApp-tvOSTests.release.xcconfig */,
+			);
+			name = "Pods-spotifyApp-tvOSTests";
+			path = "Target Support Files/Pods-spotifyApp-tvOSTests";
+			sourceTree = "<group>";
+		};
+		B95AAC6DF73A3AFC4B77A363C70E8A09 /* tvOS */ = {
+			isa = PBXGroup;
+			children = (
+				E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */,
+			);
+			name = tvOS;
+			sourceTree = "<group>";
+		};
+		C83603F9E54278BF982E93D30AA964A8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8905D5348E43D5C3070290A298BA3105 /* libPods-spotifyApp.a */,
+				512C9AF289A9C8A727DF4A002F64BBB1 /* libPods-spotifyApp-tvOS.a */,
+				2850E7616E8F8238C00183FD4A0058E5 /* libPods-spotifyApp-tvOSTests.a */,
+				813A3D2D7857F09A22597C3194486753 /* libPods-spotifyAppTests.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		31590E8C32442396BDD476AFD8B2306B /* Pods-spotifyApp-tvOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC06EAF39A7548E179947C01852BC22E /* Build configuration list for PBXNativeTarget "Pods-spotifyApp-tvOSTests" */;
+			buildPhases = (
+				DB3C562601C16E8334CD2B2A742EAC37 /* Sources */,
+				19CE705955C3D65C717EFCD3D06A6597 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-spotifyApp-tvOSTests";
+			productName = "Pods-spotifyApp-tvOSTests";
+			productReference = 2850E7616E8F8238C00183FD4A0058E5 /* libPods-spotifyApp-tvOSTests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		41B4D64D24DC9563839E28D74179F5E0 /* Pods-spotifyApp-tvOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E42F64A46FB52BD73DD55022CBFC052 /* Build configuration list for PBXNativeTarget "Pods-spotifyApp-tvOS" */;
+			buildPhases = (
+				85117A37A110739A9D1973BE075828C5 /* Sources */,
+				E21BD9B28BD21A4F7BE5C8D9FE907AD1 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-spotifyApp-tvOS";
+			productName = "Pods-spotifyApp-tvOS";
+			productReference = 512C9AF289A9C8A727DF4A002F64BBB1 /* libPods-spotifyApp-tvOS.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		43BABB7F340F05FFD4DE670294E6546D /* Pods-spotifyApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2B486477D61F370AD8BC9934FE5D0DBD /* Build configuration list for PBXNativeTarget "Pods-spotifyApp" */;
+			buildPhases = (
+				37B40A6111F18019C1CD31CDC03C1408 /* Sources */,
+				1E3A496B1B25D3FFF5A38D080D0C89C3 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-spotifyApp";
+			productName = "Pods-spotifyApp";
+			productReference = 8905D5348E43D5C3070290A298BA3105 /* libPods-spotifyApp.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		A9099A897340BEC7C956060597D1BD11 /* Pods-spotifyAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E44349176D11A6867EAD2F38C5F3749 /* Build configuration list for PBXNativeTarget "Pods-spotifyAppTests" */;
+			buildPhases = (
+				5C3250DC96800D61DAE8D7992D336A14 /* Sources */,
+				EE5C293C54802730A44BF3DFA48413D1 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-spotifyAppTests";
+			productName = "Pods-spotifyAppTests";
+			productReference = 813A3D2D7857F09A22597C3194486753 /* libPods-spotifyAppTests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = C83603F9E54278BF982E93D30AA964A8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				43BABB7F340F05FFD4DE670294E6546D /* Pods-spotifyApp */,
+				41B4D64D24DC9563839E28D74179F5E0 /* Pods-spotifyApp-tvOS */,
+				31590E8C32442396BDD476AFD8B2306B /* Pods-spotifyApp-tvOSTests */,
+				A9099A897340BEC7C956060597D1BD11 /* Pods-spotifyAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		37B40A6111F18019C1CD31CDC03C1408 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D46286D2D9BD19CC0FC544F8A4B17637 /* Pods-spotifyApp-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5C3250DC96800D61DAE8D7992D336A14 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6A26D68E1EC7878CCB2E63E44815CA5B /* Pods-spotifyAppTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85117A37A110739A9D1973BE075828C5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				47B99FE4A476EC692864734E25776A82 /* Pods-spotifyApp-tvOS-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB3C562601C16E8334CD2B2A742EAC37 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96D13765AFD8CA5E84DBB931E497F6F1 /* Pods-spotifyApp-tvOSTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		013CF8871A508BE2401303F0AD2D9D1B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95898310ACE78F15536BBD44E9B2E784 /* Pods-spotifyApp.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		0B43A67CEC0B68167428C47C8B9118F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1947D208BB55860BD1E1353E7FF6F9B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B63C727824E99B848E77A0C2359664CC /* Pods-spotifyApp.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		57938DAA59636EC10C2E41ADBF4C8DA9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C1901CF4B169ED2417B874AC08E7B2DE /* Pods-spotifyApp-tvOSTests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+		7C25D7F361B9C338658F0292C6781888 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 25C03AC09DD9C568F11AC37D2161B15C /* Pods-spotifyAppTests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		80B198ACE619BC84C5F2714256809CEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F12B708EF6ABA19D79E0D0488A415AEC /* Pods-spotifyApp-tvOS.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+		86EFD1A1A6F845D9567E3C8F433172CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+		A63BDD4F78E036ED5B6FA39FDB3C6162 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE16712875647C1340E24F7D4C3DA53B /* Pods-spotifyApp-tvOSTests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Release;
+		};
+		C35C9929FB5B70EC02449CF13888BA91 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 861C031716105827DB85E74D4CAD6895 /* Pods-spotifyApp-tvOS.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Release;
+		};
+		FCAE526FBF7DBDE040E917F54BFAF78B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7428C018F7525BB4D8AE22BB4FE20F12 /* Pods-spotifyAppTests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B486477D61F370AD8BC9934FE5D0DBD /* Build configuration list for PBXNativeTarget "Pods-spotifyApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1947D208BB55860BD1E1353E7FF6F9B6 /* Debug */,
+				013CF8871A508BE2401303F0AD2D9D1B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86EFD1A1A6F845D9567E3C8F433172CA /* Debug */,
+				0B43A67CEC0B68167428C47C8B9118F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E44349176D11A6867EAD2F38C5F3749 /* Build configuration list for PBXNativeTarget "Pods-spotifyAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7C25D7F361B9C338658F0292C6781888 /* Debug */,
+				FCAE526FBF7DBDE040E917F54BFAF78B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E42F64A46FB52BD73DD55022CBFC052 /* Build configuration list for PBXNativeTarget "Pods-spotifyApp-tvOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				80B198ACE619BC84C5F2714256809CEF /* Debug */,
+				C35C9929FB5B70EC02449CF13888BA91 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC06EAF39A7548E179947C01852BC22E /* Build configuration list for PBXNativeTarget "Pods-spotifyApp-tvOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57938DAA59636EC10C2E41ADBF4C8DA9 /* Debug */,
+				A63BDD4F78E036ED5B6FA39FDB3C6162 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
