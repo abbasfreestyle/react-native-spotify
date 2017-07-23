@@ -29,7 +29,7 @@ Once you've downloaded or cloned this repository, run `npm install` inside the d
 
 then install these dependencies
 
-`npm i -s react-native-audio-streamer`
+`npm install`
 
 `npm i -s wiyarmir/react-native-spotify-auth`
 
