@@ -29,6 +29,8 @@ Once you've downloaded or cloned this repository, run `npm install` inside the d
 
 then install these dependencies
 
+`npm i -s react-native-audio-streamer`
+
 `npm i -s wiyarmir/react-native-spotify-auth`
 
 `npm i -s react-native-vector-icons`
